@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/ashu-sharma-9856631b2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:ashu26748sharma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://drive.google.com/file/d/1V9hnzDD3FXIJIEqay4xZKpqA80t9Aj3L/view"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+<a href="https://drive.google.com/file/d/1LtkvaSfBqh_r-qEsLjwtbpuSS6jweV5t/view"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=ashusharma890&style=flat-square)
 
 #### About Me ?

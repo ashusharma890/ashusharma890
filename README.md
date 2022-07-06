@@ -18,7 +18,7 @@
 
 #### **Languages**:
 
-<img height=25 src="https://static.javatpoint.com/core/images/java-logo1.png?style=for-the-badge&logo=java&logoColor=%23F7DF1E">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/java-%23007ACC.svg?style=for-the-badge&logo=&logoColjavaor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
@@ -46,6 +46,7 @@
 </a>
 </p>
 
+<a href="https://github.com/ashusharma890/github-readme-activity-graph"><img alt="Ashu Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashusharma890&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 

@@ -4,7 +4,7 @@
 <a href="mailto:ashu26748sharma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://drive.google.com/file/d/1qpzIGAA3CCQzZrePVPmYxEjBpSxb3DO-/view" target="blank"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=ashusharma890&style=flat-square)
-<a href="https://github.com/raul1258?tab=followers"><img src="https://img.shields.io/github/followers/raul125?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ashusharma890?tab=followers"><img src="https://img.shields.io/github/followers/ashusharma890?label=Followers&style=social" alt="GitHub Badge"></a>
 
 #### About Me ?
 

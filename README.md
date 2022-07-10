@@ -1,4 +1,4 @@
-## Hi! Welcome to my Github profile! Feel free to explore around, Happy to help & connect. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
+## Hi! Welcome to my Github profile! Feel free to explore around. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 
 <a href="https://www.linkedin.com/in/ashu-sharma-9856631b2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:ashu26748sharma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>

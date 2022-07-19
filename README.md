@@ -40,12 +40,12 @@
 
 
 ## 📈 Stats
-|<p align="center">
+<p align="center">
 <a href="https://github.com/ashusharma890">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashusharma890&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>|
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashusharma890&layout=compact&langs_count=8&theme=algolia"/>
+ | <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashusharma890&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>|
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashusharma890&layout=compact&langs_count=8&theme=algolia"/>|
 </a>
-</p>|
+</p>
 
 <a href="https://github.com/ashusharma890/github-readme-activity-graph"><img alt="Ashu Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashusharma890&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
